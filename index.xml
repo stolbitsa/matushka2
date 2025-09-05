@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>matushka2</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <ru>6880387ccfa5572b7e939e043388e04e5111b2a1833dca8c3cc1e287ff1ca58d</ru>
@@ -11,16 +11,16 @@
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>minor</scale>
-    <bpm>80</bpm>
+    <bpm>93</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
     <video name="9.mp4" size="1540868" type="video/mp4" volume="0.5">b126d93bc983a6cf7b98681e3d601f3bd1c417b4e7fb25ba5a52c7c6d14949be</video>
     <notes>
       <note number="1" values="18" ticks="47" durationTicks="67" ppq="96" velocity="0.843"/>
-      <note number="2" values="5" ticks="125" durationTicks="66" ppq="96" velocity="0.913"/>
-      <note number="3" values="38" ticks="216" durationTicks="45" ppq="96" velocity="0.913"/>
-      <note number="4" values="28" ticks="257" durationTicks="29" ppq="96" velocity="0.913"/>
-      <note number="5" values="18" ticks="298" durationTicks="85" ppq="96" velocity="0.913"/>
+      <note number="2" values="5" ticks="143" durationTicks="66" ppq="96" velocity="0.913"/>
+      <note number="3" values="38" ticks="241" durationTicks="45" ppq="96" velocity="0.913"/>
+      <note number="4" values="28" ticks="287" durationTicks="39" ppq="96" velocity="0.913"/>
+      <note number="5" values="18" ticks="337" durationTicks="85" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="2">
