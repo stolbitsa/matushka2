@@ -17,3 +17,5 @@ The song "Matushka Zemlya Belaya Berezonka" (originally by Tatyana Kurtukova) pe
 Previous lesson: stolbitsa.com/stolbitsa/matushka
 <br><br>
 
+
+![](https://github.com/user-attachments/assets/330781a2-bd97-46b9-a52e-d750fc53e299)
