@@ -1,6 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-## Матушка Земля Белая Березонка · Татьяна Куртукова - исполняет девушка из Мадагаскара
+## Матушка Земля Белая Берёзонька · Татьяна Куртукова - исполняет девушка из Мадагаскара
 
 ![bird-7286246_1280](https://github.com/user-attachments/assets/a0301d41-e5a9-46fc-9684-b9f02a2c9b93)
 
@@ -17,5 +17,3 @@ The song "Matushka Zemlya Belaya Berezonka" (originally by Tatyana Kurtukova) pe
 Previous lesson: stolbitsa.com/stolbitsa/matushka
 <br><br>
 
-
-![](https://github.com/user-attachments/assets/330781a2-bd97-46b9-a52e-d750fc53e299)
