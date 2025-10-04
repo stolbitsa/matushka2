@@ -2,10 +2,10 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>matushka2</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="fistachka" repo="september"/>
   <readme>
-    <ru>722703de9fd1fcc26ce069139b382453d7935ccb4b7f775569d104deee38cce1</ru>
+    <ru>e3727035b2bdffde7914b807be98436d5ee0e0e5fb63165cc43c66b857608096</ru>
     <en>eca0ff26c166997859de57980618995dfeb7129a2bb7145453e7c6881945d5e8</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
